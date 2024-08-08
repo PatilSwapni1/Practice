@@ -1,3 +1,3 @@
 # Practice
 
-This is ust a practice files and guide links 
+This is just a practice files and guide links 
